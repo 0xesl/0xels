@@ -1,6 +1,6 @@
 <div class="page-break" style="page-break-before: always;"></div>
 
-![[history-of-computer-network.jpg]]
+![[https://cdn.shopify.com/s/files/1/0128/7382/6404/files/internet_layer_in_action_480x480.gif?v=1565883964]]
 # 🧠 الدرس الأول: مقدمة في الشبكات (What is a Network)
 
 ## ✅ يعني إيه Network؟
